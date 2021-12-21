@@ -1,2 +1,3 @@
-# Weather
-Created with CodeSandbox
+# Weather App
+Created for Extraedge company
+
