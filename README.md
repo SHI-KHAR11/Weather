@@ -1,3 +1,3 @@
 # Weather App
-Created for Extraedge company
+Created for Extraaedge company
 
